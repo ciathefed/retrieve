@@ -22,4 +22,4 @@ func main() {
 }
 ```
 
-You can find all the examples [here](https://github.com/ciathefed/retrieve/blob/main/examples)
+You can find all the examples [here](https://github.com/ciathefed/retrieve/blob/main/_examples)
